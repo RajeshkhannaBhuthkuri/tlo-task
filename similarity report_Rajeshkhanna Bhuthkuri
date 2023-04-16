@@ -1,0 +1,69 @@
+The following are observed from code1.js and code2.js files:
+The entire code in code2.js is same as that of code1.js except few changes that are done just for a change. 
+The following changes are observed from code1.js to code2.js except these the remaining code is same between code2.js and code1.js. 
+I have saved the code in two different text files and uploaded into Diffchecker where I found that in code2.js there are total number of 279 lines 
+whereas in code1.js the number of lines is 269 only. 
+Finally, I can conclude that only 10 lines of the program code is changed at few places and the remaining code is as it is between code1.js and code2.js, 
+so a plagiarism of 90% is found which is not at acceptable level. Even though it is a programming related assignment, 
+the instructors can reject this assignment because line to line code including comment lines are copied in code2.js from code1.js  
+
+In code1.js
+ovd=[];
+
+In code2.js
+od=[];
+
+In code1.js
+ovd.push(todos.all[i]);
+
+In code2.js
+od.push(todos.all[i]);
+
+In code1.js
+return ovd;	
+
+In code2.js
+return od;
+
+In code1.js
+tod=[];	
+
+In code2.js
+td=[];
+
+In code1.js
+tod.push(todos.all[i]);
+
+In code2.js
+td.push(todos.all[i]);
+
+In code1.js
+return tod;	
+
+In code2.js
+return td;
+
+In code1.js
+led=[];
+
+In code2.js
+ld=[];
+
+
+In code1.js
+led.push(todos.all[i]);
+	
+In code2.js
+ld.push(todos.all[i]);
+
+In code1.js
+return led;	
+
+In code2.js
+return ld;
+
+In code1.js
+return l.trimEnd();
+
+In code2.js
+return l.trimEnd();
